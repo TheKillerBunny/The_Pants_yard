@@ -16,8 +16,8 @@ img {
 
 @keyframes crazy {
 from {
-  margin-left: 0;
-  animation-directin: alternate;
+  //margin-left: 0;
+  transform: rotate(360deg) ;
   }
 
 
