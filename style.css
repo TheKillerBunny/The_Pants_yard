@@ -9,6 +9,12 @@ p {
   color: red;
 }
 
+li {
+  font-family: Helvetica, sans-serif;
+  font-size: 2em;
+  color: blue;
+}
+
 img {
   animation-duration: 2s;
   animation-name: crazy;
