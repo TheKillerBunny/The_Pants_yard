@@ -1,12 +1,12 @@
-h1{
+h1 {
   font-family: Chalkboard, sans-serif;
   font-size: 3em:
 }
 
-p{
+p {
   font-family: Chalkboard, sans-serif;
-  font-size: 5em
-    color: red;
+  font-size: 5em;
+  color: red;
 }
 
 img {
@@ -24,6 +24,6 @@ from {
 
 
   to {
-    margin-left: 600px;
+    //margin-left: 600px;
   }
 }
