@@ -8,6 +8,8 @@ h1 {
 header {
   background-color: black;
   color: white;
+  left: 0;
+  right: 0;
   position: fixed;
 }
 
