@@ -5,6 +5,11 @@ h1 {
   display: inline;
 }
 
+header {
+  background-color: black;
+  color: white;
+}
+
 .center {
   background-color: #FFF;
   margin: 0 auto;
