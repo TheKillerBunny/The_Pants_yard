@@ -1,7 +1,12 @@
-div {
-  background-color: yellow;
+body {
+  background-color: #CCC;
+}
+h1 {
+  display: inline;
 }
 
-span {
-  background-color: pink;
+.center {
+  background-color: #FFF;
+  margin: 0 auto
+  max-width: 800px;
 }
