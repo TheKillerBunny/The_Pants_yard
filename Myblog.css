@@ -46,12 +46,3 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
-header {
-  background-color: black;
-  color: white;
-  left: 0;
-  right: 0;
-  top: 0;
-  position: fixed;
-}
